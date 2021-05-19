@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/RickG96/node-js-full/issues"
   },
-  "homepage": "https://github.com/RickG96/node-js-full#readme"
+  "homepage": "https://github.com/RickG96/node-js-full#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
