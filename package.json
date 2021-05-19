@@ -1,0 +1,19 @@
+{
+  "name": "js-full",
+  "version": "1.0.0",
+  "description": "Esta es una aplicacion de NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RickG96/node-js-full.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RickG96/node-js-full/issues"
+  },
+  "homepage": "https://github.com/RickG96/node-js-full#readme"
+}
